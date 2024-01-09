@@ -1,8 +1,11 @@
 # Support
 If you are happy with this, consider supporting through [Venmo](https://venmo.com/u/Jackson-Rusch-1) or [Buy Me a Coffee](https://www.buymeacoffee.com/jacksonrusch) (takes 5% fee).
 
+# Why Should I care?
+The most important thing in investing is to have an impartial strategy that you follow. Optimal strategies (even simple ones like always buying an ETF when you have enough money to) requires daily monitoring of the market. This is not something that I wanted to do / think about, so I built this application to do the daily monitoring / decision making for me. If you want to follow a sound & impartial strategy without constantly thinking about the stock market this application is for you!
+
 # Overview
-Finz is a stock notification bot that handles purchasing tracking the stock market for you. You input how much money you have to invest on certain schedules and the percent that you want to put towards each stock, then Finz will tell you when to buy (which optimizes for time in the market). Every weekday at 10:00 EST, Finz will run to determine how much of a given stock to buy. This readme will cover the user experience, the inner logic of Finz, and the validation experiments of the model.
+Finz is a stock notification bot that handles buy orders of the stock market for you. You input how much money you have to invest on certain schedules and the percent that you want to put towards each stock, then Finz will tell you when to buy (which optimizes for time in the market). Every weekday at 10:00 EST, Finz will run to determine how much of a given stock to buy. This readme will cover the user experience, the inner logic of Finz, and the validation experiments of the model.
 
 ![Example](images/example_image.png)
 
